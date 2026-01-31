@@ -763,3 +763,4 @@ export default function MarketDashboard() {
     </div>
   );
 }
+
